@@ -1,0 +1,4 @@
+Test Médéric
+For CT < 2 and T < 2
+
+	-> printf "Cut Time 1v1"
